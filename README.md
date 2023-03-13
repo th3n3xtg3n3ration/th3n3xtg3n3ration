@@ -11,22 +11,22 @@
 
 ### What I'm using ? 🛠
  
-Enthusiastic Cloud Engineer with +4 experience in architecting, developing and deploying cloud systems. 
-Lifelong Learner Developer with +1 experience in developing automation and single page web applications.
-Now, working as DevOps Engineer for +1 year experience. 📚💻🖨☕️📖
+- Enthusiastic Cloud Engineer with +4 experience in architecting, developing and deploying cloud systems. 
+- Lifelong Learner Developer with +1 experience in developing automation and single page web applications.
+- Now, working as DevOps Engineer for +1 year experience. 📚💻🖨☕️📖
 
 💬 Please contact me on LinkedIn to share about anything or produce a collaborative project or for any help I can provide.
 
  ## :hammer_and_wrench: Skills
  
  📌Professional Skills:
-● AWS Services: EC2, Lambda, Elastic Beanstalk, SQS/SNS, S3, EFS, Route 53, CloudFront, API Gateway, VPC, IAM, Cloudwatch, CloudFormation, RDS, DynamoDB, ElastiCache
-● Operating Systems: Microsoft Windows, RedHat, Ubuntu
-● DevOps Tools: Ansible, Terraform, Docker, Docker Compose, Jenkins, Azure DevOps, Kubernetes, Openshift
-● Version Control: Git, GitHub
-● Project Management: Jira, Confluence, Agile, Scrum, Kanban, Software Development Life Cycle (SDLC)
-● Languages: C#, Python, Javascript, Angular + DevExtreme, HTML, CSS, Shell Scripting, SQL, PL/SQL
-● Computer Fundamentals: Network Basics, Computational Thinking
+- AWS Services: EC2, Lambda, Elastic Beanstalk, SQS/SNS, S3, EFS, Route 53, CloudFront, API Gateway, VPC, IAM, Cloudwatch, CloudFormation, RDS, DynamoDB, ElastiCache
+- Operating Systems: Microsoft Windows, RedHat, Ubuntu
+- DevOps Tools: Ansible, Terraform, Docker, Docker Compose, Jenkins, Azure DevOps, Kubernetes, Openshift
+- Version Control: Git, GitHub
+- Project Management: Jira, Confluence, Agile, Scrum, Kanban, Software Development Life Cycle (SDLC)
+- Languages: C#, Python, Javascript, Angular + DevExtreme, HTML, CSS, Shell Scripting, SQL, PL/SQL
+- Computer Fundamentals: Network Basics, Computational Thinking
 
 📌Soft Skills:
 High Motivation | Leadership | Time Management | Collaborative Working | Analytical Thinking | Organized and Adaptable | Creative Spirit | Multitask Skills | Fast Learner | Communication & Interpersonal Skills
