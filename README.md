@@ -20,7 +20,7 @@ Now, working as DevOps Engineer for +1 year experience. 📚💻🖨☕️📖
  ## :hammer_and_wrench: Skills
  
  📌Professional Skills:
-AWS Services: EC2, Lambda, Elastic Beanstalk, SQS/SNS, S3, EFS, Route 53, CloudFront, API Gateway, VPC, IAM, Cloudwatch, CloudFormation, RDS, DynamoDB, ElastiCache
+● AWS Services: EC2, Lambda, Elastic Beanstalk, SQS/SNS, S3, EFS, Route 53, CloudFront, API Gateway, VPC, IAM, Cloudwatch, CloudFormation, RDS, DynamoDB, ElastiCache
 ● Operating Systems: Microsoft Windows, RedHat, Ubuntu
 ● DevOps Tools: Ansible, Terraform, Docker, Docker Compose, Jenkins, Azure DevOps, Kubernetes, Openshift
 ● Version Control: Git, GitHub
